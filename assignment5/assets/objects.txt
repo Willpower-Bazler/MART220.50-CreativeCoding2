@@ -1,4 +1,0 @@
-armor.png
-axe.png
-backpack.png
-bow.png
