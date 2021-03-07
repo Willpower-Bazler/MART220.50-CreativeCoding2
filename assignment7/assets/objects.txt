@@ -1,0 +1,4 @@
+assets/armor.png
+assets/axe.png
+assets/backpack.png
+assets/bow.png
